@@ -132,13 +132,13 @@ h6 {
   top: 0;
   right: 0;
   transition: all 0.5s;
-  z-index: 997;
+  z-index: 900;
 }
 
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
-  padding: 20px 0;
-  height: 72px;
+  padding: 18px 0;
+  height: 82px;
   transition: all 0.5s;
 }
 
@@ -147,7 +147,7 @@ h6 {
 }
 
 #header #logo h1 {
-  font-size: 28px;
+  font-size: 22px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -621,7 +621,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #featured-services h4 {
   font-weight: 400;
-  margin: 15px 0;
+  margin: 14px 0;
   font-size: 18px;
 }
 
