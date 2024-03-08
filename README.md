@@ -1,1 +1,1 @@
-# JagrataraAtha.github.io
+# JagrataraArtha.github.io
